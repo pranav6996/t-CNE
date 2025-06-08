@@ -1,6 +1,6 @@
 # 🌀 t-SNE Visualization of 3D Blobs
 
-This mini-project explores dimensionality reduction using **t-SNE (t-Distributed Stochastic Neighbor Embedding)** and plots both 3D and 2D visualizations of clustered data for better understanding of how data structure can be simplified and visualized.
+This project explores dimensionality reduction using **t-SNE (t-Distributed Stochastic Neighbor Embedding)** and plots both 3D and 2D visualizations of clustered data for better understanding of how data structure can be simplified and visualized.
 
 ---
 
